@@ -1,0 +1,7 @@
+12 portable operating systems
+13 code optimization for space efficiency
+19 Parallel algorithms
+23 Distributed computing structures and algorithms
+24 Applied stochastic processes
+25 Performance evaluation and modelling of computer systems
+50 Parallel processors in information retrieval

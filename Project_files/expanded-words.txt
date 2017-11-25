@@ -1,0 +1,887 @@
+1  time-sharing performance
+2  page system
+3  oettinger tmg
+4  proceedings oden
+5  oettinger syslo
+6  tn design
+7  processed oettinger
+8  system computer
+9  encryption information
+10  zeros computers
+11  language programming
+12  system security
+13  expressions 4.12
+14  merge 1963
+15  flow analysis
+16  system multiprogramming
+17  threaded 4.12
+18  paragraph oettinger
+19  computers zeros
+20  algorithm vertically
+21  complexities oestreicher
+22  display oestreicher
+23  networks information
+24  simulation event
+25  perform oettinger
+26  protection system
+27  paging behavior
+28  routines activity
+29  primary generator
+30  testsshow oettinger
+31  illustrative oettinger
+32  thacher oedipus
+33  eigenvalue-eigenvector mathsort
+34  rootfinder room
+35  sylvester's th
+36  parsers grammar
+37  textures oedipus
+38  oestreicher typed
+39  typeless ty
+40  oestreicher typed
+41  textual procedures
+42  perforated oestreicher
+43  fonts method
+44  predicates mathematics
+45  access retrieval
+46  system document
+47  oestreicher retracing
+48  line-drawing programmer-oriented
+49  retracing oestreicher
+50  trees storage
+51  memory zeros
+52  simulates oestreicher
+53  bingham coefficient
+54  th oden
+55  watts coulomb
+56  wattenburg coulomb
+57  thacher oestreicher
+58  registration oettinger
+59  oettinger tn
+60  data-transfer thacher
+61  retracing informal
+62  tn computers
+63  computers processing
+64  lisp-like oestreicher
+1  cacm jb
+2  cacm 1978
+3  oettinger tmg
+4  oden th
+5  oettinger tn
+6  tn cacm
+7  oettinger tn
+8  cacm 1978
+9  cacm 1978
+10  cacm 1978
+11  language cacm
+12  system cacm
+13  cacm jb
+14  cacm 1978
+15  cacm jb
+16  system cacm
+17  cacm jb
+18  oettinger paragraph
+19  cacm jb
+20  algorithm tn
+21  oestreicher irrelevant
+22  oestreicher display
+23  cacm jb
+24  cacm 1978
+25  oettinger syslo
+26  cacm system
+27  cacm jb
+28  tn cacm
+29  primary algorithm
+30  oettinger tmg
+31  oettinger irwin
+32  thacher oedipus
+33  oestreicher th
+34  oettinger cacm
+35  oettinger th
+36  oettinger footing
+37  oedipus textures
+38  oestreicher improving
+39  tn cacm
+40  oestreicher impulses
+41  textual october,1971
+42  oestreicher ancients
+43  cacm 1978
+44  cacm 1978
+45  cacm jb
+46  cacm jb
+47  oestreicher improving
+48  line-drawing programmer-oriented
+49  oestreicher retracing
+50  cacm jb
+51  cacm jb
+52  oestreicher simulates
+53  oedipus th
+54  oden th
+55  functions watts
+56  oettinger functions
+57  thacher oestreicher
+58  oettinger cached
+59  oettinger tn
+60  thacher oestreicher
+61  oestreicher retracing
+62  tn cacm
+63  cacm 1978
+64  oestreicher tmg
+1 cacm jb
+1 cacm jb
+1 cacm jb
+2 cacm system
+3 oettinger cacm
+4 oden th
+5 oettinger tn
+6 tn cacm
+7 oettinger irwin
+8 system cacm
+9 cacm system
+10 cacm 1978
+11 cacm language
+12 cacm system
+13 cacm jb
+14 cacm jb
+1 input design
+2 system workers
+3 oettinger compiler
+4 th oden
+5 oettinger syslo
+6 tn wb
+7 oettinger processed
+8 system scheduling
+9 system computer
+10 computers programming
+11 language programming
+12 system security
+13 threaded 4.12
+14 routing jump
+15 flow analysis
+16 system set
+17 threaded 4.12
+18 paragraph oettinger
+19 computers zeros
+20 matrix algorithm
+21 complexities oestreicher
+22 oestreicher display
+23 data lp
+24 system ca611013
+25 perform oettinger
+26 protection security
+27 paging system
+28 routines tn
+29 primary generator
+30 oettinger testsshow
+31 oettinger illustrative
+32 thacher oedipus
+33 eigenvalue-eigenvector eigenvector-eigenvalue
+34 rootfinder room
+35 sylvester's th
+36 parsers oettinger
+37 textures oedipus
+38 oestreicher typed
+39 typeless ty
+40 oestreicher typed
+41 textual procedures
+42 patrick oestreicher
+43 pattern fonts
+44 predicates mathematics
+45 data base
+46 system document
+47 oestreicher retracing
+48 thacher oedipus
+49 retracing informal
+50 trees storage
+51 memory zeros
+52 simulates oestreicher
+53 bingham coefficient
+54 th oden
+55 watts coulomb
+56 wattenburg coulomb
+57 thacher oestreicher
+58 oettinger registration
+59 oettinger tn
+60 thacher oestreicher
+61 figures retracing
+62 theorized tn
+63 programming sorting
+64 lisp-like oestreicher
+1 hermite 158
+2 hermite 158
+3 hermite 158
+4 hermite 158
+5 hermite 158
+6 hermite 158
+7 hermite 158
+8 hermite 158
+9 hermite 158
+10 hermite 158
+11 hermite 158
+12 hermite 158
+13 hermite 158
+14 hermite 158
+15 hermite 158
+16 hermite 158
+17 hermite 158
+18 hermite 158
+19 hermite 158
+20 hermite 158
+21 hermite 158
+1  time-sharing performance
+2  page system
+3  oettinger tmg
+4  proceeds oedipus
+5  oettinger syslo
+6  tn design
+7  processed oettinger
+8  system computer
+9  encryption information
+10  zeros computers
+11  language programming
+12  system security
+13  expressions 4.12
+14  merge 1963
+15  flow analysis
+16  system multiprogramming
+17  threaded 4.12
+18  paragraph oettinger
+19  computers zeros
+20  algorithm vertically
+21  complexities oestreicher
+22  plotting r420
+23  networks information
+24  simulation event
+25  perform oettinger
+26  protection system
+27  paging behavior
+28  routines activity
+29  generator a1
+30  ca650515 editing
+nroff  hermitian 16
+31  illustrative oettinger
+32  thacher oedipus
+33  eigenvalue-eigenvector mathsort
+34  rootfinder room
+35  sylvester's th
+36  grammars grammar
+37  th oestreicher
+38  oettinger typeless
+39  language abstractions
+40  oestreicher typed
+41  textual procedures
+42  perforated oestreicher
+43  fonts pattern
+44  predicates mathematics
+45  access retrieval
+46  system document
+47  oestreicher retracing
+48  line-drawing programmer-oriented
+49  retracing oestreicher
+50  trees storage
+51  memory zeros
+52  simulates oestreicher
+53  bingham coefficient
+54  th oden
+55  watts coulomb
+56  wattenburg coulomb
+57  thacher oestreicher
+58  registration oettinger
+59  oettinger tn
+60  data-transfer thacher
+61  retracing informal
+62  tn computers
+63  computers processing
+64  lisp-like oestreicher
+1  time-sharing performance
+2  page system
+3  oettinger tmg
+4  proceeds oedipus
+5  oettinger syslo
+6  tn design
+7  processed oettinger
+8  system computer
+9  encryption information
+10  zeros computers
+11  language programming
+12  system security
+13  expressions 4.12
+14  merge 1963
+15  flow analysis
+16  system multiprogramming
+17  threaded 4.12
+18  paragraph oettinger
+19  computers zeros
+20  algorithm vertically
+21  complexities oestreicher
+22  plotting r420
+23  networks information
+24  simulation event
+25  perform oettinger
+26  protection system
+27  paging behavior
+28  routines activity
+29  generator a1
+30  ca650515 editing
+nroff  hermitian 16
+31  illustrative oettinger
+32  thacher oedipus
+33  eigenvalue-eigenvector mathsort
+34  rootfinder room
+35  sylvester's th
+36  grammars grammar
+37  th oestreicher
+38  oettinger typeless
+39  language abstractions
+40  oestreicher typed
+41  textual procedures
+42  perforated oestreicher
+43  fonts pattern
+44  predicates mathematics
+45  access retrieval
+46  system document
+47  oestreicher retracing
+48  line-drawing programmer-oriented
+49  retracing oestreicher
+50  trees storage
+51  memory zeros
+52  simulates oestreicher
+53  bingham coefficient
+54  th oden
+55  watts coulomb
+56  wattenburg coulomb
+57  thacher oestreicher
+58  registration oettinger
+59  oettinger tn
+60  data-transfer thacher
+61  retracing informal
+62  tn computers
+63  computers processing
+64  lisp-like oestreicher
+1 input design
+2 system workers
+3 oettinger compiler
+4 thacher oedipus
+5 oettinger syslo
+6 tn wb
+7 oettinger processed
+8 system scheduling
+9 system computer
+10 computers programming
+11 language programming
+12 system security
+13 threaded 4.12
+14 routing jump
+15 flow analysis
+16 system set
+17 threaded 4.12
+18 paragraph oettinger
+19 computers zeros
+20 matrix algorithm
+21 complexities oestreicher
+22 plot display
+23 data networks
+24 system ca611013
+25 perform oettinger
+26 protection system
+27 paging system
+28 routines tn
+29 generator numbers
+30 thacher oestreicher
+31 oettinger illustrative
+32 thacher oedipus
+33 eigenvalue-eigenvector eigenvector-eigenvalue
+34 rootfinder room
+35 symbiosis thacher
+36 grammars grammar
+37 thacher oettinger
+38 oettinger typeless
+39 language checking
+40 oettinger ty
+41 textual procedures
+42 patrick oestreicher
+43 pattern fonts
+44 predicates mathematics
+45 data base
+46 system document
+47 oestreicher retracing
+48 oestreicher schwetman
+49 retract oettinger
+50 trees system
+51 memory zeros
+52 simulates oestreicher
+53 bingham coefficient
+54 th oden
+55 watts coulomb
+56 wattenburg coulomb
+57 thacher oestreicher
+58 oettinger registration
+59 oettinger tn
+60 thacher oestreicher
+61 figures retracing
+62 theorized tn
+63 programming sorting
+64 lisp-like oestreicher
+1  time-sharing performance interarrival jb pm
+2  page system workers market replacement
+3  oettinger tmg systematically speierman nonsingle
+4  proceeds oedipus thacher tlc's impulses
+5  oettinger syslo tn irwin langmaack
+6  tn design sp/2,..p/8 computer animation
+7  processed oettinger syslo multiprogrammed irwin
+8  system computer activity simulation forwarding
+9  encryption information secure system verification
+10  zeros computers derivatives processing december
+11  language programming data systems machine
+12  system security spelling data programs
+13  expressions 4.12 compilers optimizations program
+14  merge 1963 algorithm shuttle 175
+15  flow analysis data program algorithm
+16  system multiprogramming process 4.32 set
+17  threaded 4.12 expressions compilers generation
+18  paragraph oettinger processor-oriented tn computers
+19  computers zeros processors processing array
+20  algorithm vertically matrix tn 5.32
+21  complexities oestreicher computation mysterious irrelevant
+22  plotting r420 plot program surface
+23  networks information synchronization control generating
+24  simulation event ca611013 convergence 12:48
+25  perform oettinger syslo systematically model
+26  protection system data security access
+27  paging behavior model allocation algorithms
+28  routines activity broadcast computer distributed
+29  generator a1 algorithm chartres numbers
+30  ca650515 editing 12:53 king dynamic
+nroff  hermitian 16 1961 april izsak
+31  illustrative oettinger irwin pictorial processes
+32  thacher oedipus grapa tlc's ancients
+33  eigenvalue-eigenvector mathsort eigenvector-eigenvalue th reads
+34  rootfinder room polyhedral oettinger zero-time
+35  sylvester's th oettinger manipulating impulses
+36  grammars grammar affix lr syntax
+37  th oestreicher type-tagging two-way irwin
+38  oettinger typeless ty impulses irwin
+39  language abstractions programming array abstraction
+40  oestreicher typed tx-2 impulses language-processing
+41  textual procedures october,1971 9:58 ancient
+42  perforated oestreicher synthetic evaluating ancients
+1 input design virtual interarrival user
+2 system workers model wisp approximation
+3 oettinger compiler programmers tmg nonsingle
+4 thacher oedipus proceeds impulses tlcs
+5 oettinger syslo tn irwin langmaack
+6 tn wb legal animation systematically
+7 oettinger processed irwin impulses tn
+8 system scheduling allocation activity time-sharing
+9 system computer activity communication data
+10 computers programming zeros language derivatives
+11 language programming data ca690708 systems
+12 system security spelling reactive data
+13 threaded 4.12 expressions generation optimizations
+14 routing jump storage focus searching
+15 flow analysis algorithm marriage data
+16 system set termination multiprogramming process
+17 threaded 4.12 expressions generation language
+18 paragraph oettinger processor-oriented tn computers
+19 computers zeros processors processing array
+20 matrix algorithm manipulation 5.14 package
+21 complexities oestreicher computation mysterious footing
+22 plot display surface plotting graphical
+23 data networks lp information shortest
+24 system ca611013 12:48 cohen algorithm
+25 perform oettinger syslo systematically tn
+26 protection system data security access
+27 paging system data virtual 4.32
+28 routines tn activity broadcast forwarding
+29 generator numbers algorithm complement a1
+30 thacher oestreicher tests formatted tlcs
+31 oettinger illustrative processes impulses irwin
+32 thacher oedipus singles grapa tlcs
+33 eigenvalue-eigenvector eigenvector-eigenvalue mathsort reads mathieus
+34 rootfinder room polyhedral oettinger zero-time
+35 symbiosis thacher manipulating oettinger impulses
+36 grammars grammar sentences pushdown 5.23
+37 thacher oettinger irwin symmetrically tlcs
+38 oettinger typeless irwin tn impulses
+39 language checking structure list correctness
+40 oettinger ty typeless tn programmers
+41 textual procedures octal 9:58 ancient
+42 patrick oestreicher reclamation perforated ancients
+43 pattern fonts hough template 3.63
+44 predicates mathematics loop algorithm science
+45 data base access computer records
+46 system document documents systems data
+47 oestreicher retracing decimal-binary synthetic informal
+48 oestreicher schwetman impulses tmg irwin
+49 retract oettinger informally impulses fike
+50 trees system storage consecutive 3.70
+51 memory zeros processing processor algorithm
+52 simulates oestreicher evenly impulses ancients
+53 bingham coefficient 189 th oedipus
+54 th oden programmer-defined dartmouth language-oriented
+55 watts coulomb functions 292 s22
+56 wattenburg coulomb regression functions oettinger
+57 thacher oestreicher programmer-supplied ancients 9:59
+58 oettinger registration statistic squared noniterative
+59 oettinger tn speierman word-sense native
+60 thacher oestreicher ancients synthesizing system-whether
+61 figures retracing oestreicher file-memory informal
+62 theorized tn algorithm graph computers
+63 programming sorting program zeros processes
+64 lisp-like oestreicher tmg irrelevant improving
+1  time-sharing performance interarrival jb pm
+2  page system workers market replacement
+3  oettinger tmg systematically speierman nonsingle
+4  proceeds oedipus thacher tlcs impulses
+5  oettinger syslo tn irwin langmaack
+6  tn design sp computer animation
+7  processed oettinger syslo multiprogrammed irwin
+8  system computer activity forwarding simulation
+9  encryption information secure system verification
+10  zeros computers derivatives processing december
+11  language programming data systems machine
+12  system security spelling data programs
+13  expressions 4.12 compilers optimizations program
+14  merge 1963 algorithm shuttle 175
+15  flow analysis data program algorithm
+16  system multiprogramming process 4.32 set
+17  threaded 4.12 expressions compilers generation
+18  paragraph oettinger processor-oriented tn computers
+19  computers zeros processors processing array
+20  algorithm vertically matrix tn 5.32
+21  complexities oestreicher computation mysterious irrelevant
+22  plotting r420 plot program surface
+23  networks information synchronization control generating
+24  simulation event ca611013 convergence 12:48
+25  perform oettinger syslo systematically model
+26  system protection security data access
+27  paging behavior model allocation algorithms
+28  routines activity broadcast computer distributed
+29  generator a1 algorithm chartres numbers
+30  tests thacher oestreicher formatted tlcs
+31  illustrative oettinger irwin pictorial processes
+32  thacher oedipus grapa tlcs ancients
+33  eigenvalue-eigenvector mathsort eigenvector-eigenvalue th reads
+34  rootfinder room polyhedral oettinger zero-time
+35  symbiosis thacher manipulating oettinger impulses
+36  grammars grammar affix lr syntax
+37  thacher oettinger type-wise twos-complement impulses
+38  oettinger typeless ty impulses irwin
+39  language abstractions programming array abstraction
+40  oettinger typeless ty language abstract
+41  textual procedures octal 9:58 ancient
+42  perforated oestreicher synthetic evaluating ancients
+43  fonts pattern method surface letters
+44  predicates mathematics display surface loop
+45  access retrieval organization base inverted
+46  system document documents systems data
+47  oestreicher retracing decimal-binary synthetic informal
+48  line-scan programmer-supplied 5.41 dual variable-width
+49  retract oettinger informally impulses footing
+50  trees system storage consecutive 3.70
+51  memory zeros processing processor algorithm
+52  simulates oestreicher evenly impulses ancients
+53  bingham coefficient 189 th oedipus
+54  th oden programmer-defined dartmouth language-oriented
+55  watts coulomb functions 292 s22
+56  wattenburg coulomb regression functions oettinger
+57  thacher oestreicher programmer-supplied ancients improving
+58  registration oettinger statistic analysis testing
+59  oettinger tn retract speierman analysis
+60  data-transfer thacher dashes oestreicher relates
+61  retracing informal oestreicher figures salesman
+62  tn computers processes zero-time logic
+63  computers processing zeros derivatives program
+64  lisp-like oestreicher tmg maximum improving
+1  time-sharing performance
+2  page system
+3  oettinger tmg
+4  proceeds oedipus
+5  oettinger syslo
+6  tn design
+7  processed oettinger
+8  system computer
+9  encryption information
+10  zeros computers
+11  language programming
+12  system security
+13  expressions 4.12
+14  merge 1963
+15  flow analysis
+16  system multiprogramming
+17  threaded 4.12
+18  paragraph oettinger
+19  computers zeros
+20  algorithm vertically
+21  complexities oestreicher
+22  plotting r420
+23  networks information
+24  simulation event
+25  perform oettinger
+26  system protection
+27  paging behavior
+28  routines activity
+29  generator a1
+30  tests thacher
+31  illustrative oettinger
+32  thacher oedipus
+33  eigenvalue-eigenvector mathsort
+34  rootfinder room
+35  symbiosis thacher
+36  grammars grammar
+37  thacher oettinger
+38  oettinger typeless
+39  language abstractions
+40  oettinger typeless
+41  textual procedures
+42  perforated oestreicher
+43  fonts pattern
+44  predicates mathematics
+45  access retrieval
+46  system document
+47  oestreicher retracing
+48  line-scan programmer-supplied
+49  retract oettinger
+50  trees system
+51  memory zeros
+52  simulates oestreicher
+53  bingham coefficient
+54  th oden
+55  watts coulomb
+56  wattenburg coulomb
+57  thacher oestreicher
+58  registration oettinger
+59  oettinger tn
+60  data-transfer thacher
+61  retracing informal
+62  tn computers
+63  computers processing
+64  lisp-like oestreicher
+1  time-sharing performance interarrival jb pm user cacm 1978 march monitor
+2  page system workers market replacement price computer march pm space
+3  oettinger tmg systematically speierman nonsingle grammar formac nekora syslo model
+4  proceeds oedipus thacher tlcs impulses irrelevant programmer-oriented communication probes synthesizing
+5  oettinger syslo tn irwin langmaack interactions wisniewski impulses tetragamma retract
+6  tn design sp computer animation language problems professional frame objects
+7  processed oettinger syslo multiprogrammed irwin tn operates impulses symposium semaphore
+8  system computer activity forwarding simulation communication broadcast project time-sharing scheduling
+9  encryption information secure system verification computer password passwords public-key authenticated
+10  zeros computers derivatives processing december program language pm algorithm cacm
+11  language programming data systems machine translation business cacm future line
+12  system security spelling data programs level software program language correction
+13  expressions 4.12 compilers optimizations program subexpressions generation strength optimal algorithm
+14  merge 1963 algorithm shuttle 175 bron 13 march 1978 jb
+15  flow analysis data program algorithm time loop 4.12 programs elimination
+16  system multiprogramming process 4.32 set scheduling deadlock parallel 4.30 jb
+17  threaded 4.12 expressions compilers generation optimizations pm strength object jb
+18  paragraph oettinger processor-oriented tn computers multiprocesses progamming mythical zero-time processes
+19  computers zeros processors processing array algorithm time execution illiac steps
+20  algorithm vertically matrix tn 5.32 transitions closure shortest paths connected
+21  complexities oestreicher computation mysterious irrelevant footing probing tmg justify mathematically
+22  plotting r420 plot program surface 1974 january williams algorithm ellis
+23  networks information synchronization control generating 4.32 processes system network computer
+24  simulation event ca611013 convergence 12:48 cohen algorithm march 1978 systems
+25  perform oettinger syslo systematically model tn queue market simulating previously
+26  system protection security data access programming process storage program design
+27  paging behavior model allocation algorithms program system simulation performance page
+28  routines activity broadcast computer distributed tn computing forwarding switches simulating
+29  generator a1 algorithm chartres numbers residue mixed-radix 310 23 pm
+30  tests thacher oestreicher formatted tlcs ca650514 edited footing 12:53 irwin
+31  illustrative oettinger irwin pictorial processes tmg display imagery impulses computer
+32  thacher oedipus grapa tlcs ancients singles heterogeneous irregularities graphics mathieus
+33  eigenvalue-eigenvector mathsort eigenvector-eigenvalue th reads mathieus oestreicher 5.14 symbolic q-d
+34  rootfinder room polyhedral oettinger zero-time finiteness 5.15 result finders equation
+35  symbiosis thacher manipulating oettinger impulses tlcs algebra simplest irwin multiplexor
+36  grammars grammar affix lr syntax 5.23 pushdown context-sensitive analyzer 4.12
+37  thacher oettinger type-wise twos-complement impulses irwin tlcs abstract th checking
+1  time-sharing performance interarrival jb pm user cacm 1978 march monitor
+2  page system workers market replacement price computer march pm space
+3  oettinger tmg systematically speierman nonsingle grammar formac nekora syslo model
+4  proceeds oedipus thacher tlcs impulses irrelevant programmer-oriented communication probes synthesizing
+5  oettinger syslo tn irwin langmaack interactions wisniewski impulses tetragamma retract
+6  tn design sp computer animation language problems professional frame objects
+7  processed oettinger syslo multiprogrammed irwin tn operates impulses symposium semaphore
+8  system computer activity forwarding simulation communication broadcast project time-sharing scheduling
+9  encryption information secure system verification computer password passwords public-key authenticated
+10  zeros computers derivatives processing december program language pm algorithm cacm
+11  language programming data systems machine translation business cacm future line
+12  system security spelling data programs level software program language correction
+13  expressions 4.12 compilers optimizations program subexpressions generation strength optimal algorithm
+14  merge 1963 algorithm shuttle 175 bron 13 march 1978 jb
+15  flow analysis data program algorithm time loop 4.12 programs elimination
+16  system multiprogramming process 4.32 set scheduling deadlock parallel 4.30 jb
+17  threaded 4.12 expressions compilers generation optimizations pm strength object jb
+18  paragraph oettinger processor-oriented tn computers multiprocesses progamming mythical zero-time processes
+19  computers zeros processors processing array algorithm time execution illiac steps
+20  algorithm vertically matrix tn 5.32 transitions closure shortest paths connected
+21  complexities oestreicher computation mysterious irrelevant footing probing tmg justify mathematically
+22  plotting r420 plot program surface 1974 january williams algorithm ellis
+23  networks information synchronization control generating 4.32 processes system network computer
+24  simulation event ca611013 convergence 12:48 cohen algorithm march 1978 systems
+25  perform oettinger syslo systematically model tn queue market simulating previously
+26  system protection security data access programming process storage program design
+27  paging behavior model allocation algorithms program system simulation performance page
+28  routines activity broadcast computer distributed tn computing forwarding switches simulating
+29  generator a1 algorithm chartres numbers residue mixed-radix 310 23 pm
+30  tests thacher oestreicher formatted tlcs ca650514 edited footing 12:53 irwin
+31  illustrative oettinger irwin pictorial processes tmg display imagery impulses computer
+32  thacher oedipus grapa tlcs ancients singles heterogeneous irregularities graphics mathieus
+33  eigenvalue-eigenvector mathsort eigenvector-eigenvalue th reads mathieus oestreicher 5.14 symbolic q-d
+34  rootfinder room polyhedral oettinger zero-time finiteness 5.15 result finders equation
+35  symbiosis thacher manipulating oettinger impulses tlcs algebra simplest irwin multiplexor
+36  grammars grammar affix lr syntax 5.23 pushdown context-sensitive analyzer 4.12
+37  thacher oettinger type-wise twos-complement impulses irwin tlcs abstract th checking
+38  oettinger typeless ty impulses irwin tn programmers langmaack language-processing progamming
+39  language abstractions programming array abstraction 1977 checking control correctness implementation
+40  oettinger typeless ty language abstract programmers abstractions tn 1977 checking
+41  textual procedures octal 9:58 ancient symbolically papers procedure-oriented irf tintner
+42  perforated oestreicher synthetic evaluating ancients 9:59 mod measure irwin modeling
+43  fonts pattern method surface letters pitch gamma grammar 1978 jb
+44  predicates mathematics display surface loop graphics image algorithms method digital
+45  access retrieval organization base inverted data record storage combined keys
+46  system document documents systems data search cost query march model
+47  oestreicher retracing decimal-binary synthetic informal improving tmg perforated systematic irrelevant
+48  line-scan programmer-supplied 5.41 dual variable-width probing prolate enumerating 0-1 gx
+49  retract oettinger informally impulses footing fike syslo systematically irwin tn
+50  trees system storage consecutive 3.70 record time science 3.74 search
+51  memory zeros processing processor algorithm page time replacement execution virtual
+52  simulates oestreicher evenly impulses ancients computed footing irwin mode ardizationof
+53  bingham coefficient 189 th oedipus algol-type 9:59 induces quotient ca620813
+54  th oden programmer-defined dartmouth language-oriented absorption ancient sellers corrective irrelevant
+55  watts coulomb functions 292 s22 tn 5.12 february exception algorithm
+56  wattenburg coulomb regression functions oettinger 292 s21 theories tmg 5.12
+57  thacher oestreicher programmer-supplied ancients improving tlcs 9:59 irrelevant programming-oriented induces
+58  registration oettinger statistic analysis testing noniterative footing impulses irwin squared
+59  oettinger tn retract speierman analysis correction word-sense method systematically transform
+60  data-transfer thacher dashes oestreicher relates ancients impulses irrelevant queens tlcs
+61  retracing informal oestreicher figures salesman improving se ca620209 irrelevant tmg
+62  tn computers processes zero-time logic array pm algorithm progamming algorithms
+63  computers processing zeros derivatives program array multiprocessing readers pm cacm
+64  lisp-like oestreicher tmg maximum improving fonts data irrelevant synthetic thacher
+1 input design virtual interarrival user ibsys 1978 pm jb computer
+2 system workers model wisp approximation march pl cacm 1978 interpreters
+3 oettinger compiler programmers tmg nonsingle language macro regions counts usability
+4 thacher oedipus proceeds impulses tlcs irrelevant decision data graphical table
+5 oettinger syslo tn irwin langmaack wisniewski interfaced impulses systematically interactions
+6 tn wb legal animation systematically computer thirteen language march pm
+7 oettinger processed irwin impulses tn symposium operates programmers systematically speierman
+8 system scheduling allocation activity time-sharing computer deadlock communication deadlocks multiprogramming
+9 system computer activity communication data information control model sharing packet
+10 computers programming zeros language derivatives program algorithm pm code cacm
+11 language programming data ca690708 systems errata 9:01 salzer cacm jb
+12 system security spelling reactive data programs level software program language
+13 threaded 4.12 expressions generation optimizations optimal storage common pm subexpressions
+14 routing jump storage focus searching algorithm performance 1977 milman ca770508
+15 flow analysis algorithm marriage data program stable graph code time
+16 system set termination multiprogramming process program computer parallel 4.32 data
+17 threaded 4.12 expressions generation language optimizations pm compiler strength pass
+18 paragraph oettinger processor-oriented tn computers zero-time algorithm ca611201 bakers programmers
+19 computers zeros processors processing array algorithm time execution illiac steps
+20 matrix algorithm manipulation 5.14 package shortest tn paths pm january
+21 complexities oestreicher computation mysterious footing sort-merge irrelevant 5.25 tmg 1977
+22 plot display surface plotting graphical 4.9 algorithm ca720207 a420 system
+23 data networks lp information shortest programming systems control 4.32 packet
+24 system ca611013 12:48 cohen algorithm semaphores march convergence pm static
+25 perform oettinger syslo systematically tn measurement time-shared market cost previously
+26 protection system data security access programming storage design program information
+27 paging system data virtual 4.32 multiprogramming performance allocation model algorithms
+28 routines tn activity broadcast forwarding distributed switches simulating protocol computer
+29 generator numbers algorithm complement a1 3.15 arithmetic singles february then-point
+30 thacher oestreicher tests formatted tlcs ca650514 impulses 12:53 footing irwin
+31 oettinger illustrative processes impulses irwin pictorial tmg singleton valuable computer
+32 thacher oedipus singles grapa tlcs irregularities decomposing ancients footing decimal-to-binary
+33 eigenvalue-eigenvector eigenvector-eigenvalue mathsort reads mathieus th symbolic 5.14 q-d oestreicher
+34 rootfinder room polyhedral oettinger zero-time finiteness 5.15 result finders equation
+35 symbiosis thacher manipulating oettinger impulses tlcs algebra simplest irwin multiplexor
+36 grammars grammar sentences pushdown 5.23 structural context-sensitive graphs analyzer pulse
+37 thacher oettinger irwin symmetrically tlcs twos-complement impulses th processed serial-by-bit
+38 oettinger typeless irwin tn impulses ty language-processing piece progamming langmaack
+39 language checking structure list correctness programming implementation abstraction formal pose
+40 oettinger ty typeless tn programmers language checking structured pk abstract
+41 textual procedures octal 9:58 ancient symbolically papers procedure-oriented irf tintner
+42 patrick oestreicher reclamation perforated ancients 9:59 synthetic irwin tmg evaluating
+43 pattern fonts hough template 3.63 structural processing detection understanding pulse
+44 predicates mathematics loop algorithm science imprecise fuzzy ca730708 science-seminars undergraduates
+45 data base access computer records database organization overflow 1977 record
+46 system document documents systems data search cost query march model
+47 oestreicher retracing decimal-binary synthetic informal improving tmg perforated systematic irrelevant
+48 oestreicher schwetman impulses tmg irwin programmer-supplied numerals mathematically line-scan footing
+49 retract oettinger informally impulses fike systematically footing irwin tn omitting
+50 trees system storage consecutive 3.70 record time science 3.74 search
+51 memory zeros processing processor algorithm page time replacement execution virtual
+52 simulates oestreicher evenly impulses ancients computed footing irwin mode ardizationof
+53 bingham coefficient 189 th oedipus algol-type 9:59 induces quotient ca620813
+54 th oden programmer-defined dartmouth language-oriented absorption ancient sellers corrective irrelevant
+55 watts coulomb functions 292 s22 tn 5.12 february exception algorithm
+56 wattenburg coulomb regression functions oettinger 292 s21 theories tmg 5.12
+57 thacher oestreicher programmer-supplied ancients 9:59 tlcs improving irrelevant profusion language-oriented
+58 oettinger registration statistic squared noniterative leasors footing line-structure impulses modelled
+59 oettinger tn speierman word-sense native analysis correction retract wisp transform
+60 thacher oestreicher ancients synthesizing system-whether sociologists memories tlcs computed manageable
+61 figures retracing oestreicher file-memory informal se tmg soviet-built improving vault
+62 theorized tn algorithm graph computers seals fix logic elementary jb
+63 programming sorting program zeros processes algorithm searching dynamic ca780911 tenenbaum
+64 lisp-like oestreicher tmg irrelevant improving session thacher git-graph fonts processed
+1  time-sharing performance interarrival terminal jb
+2  page system workers market replacement
+3  oettinger tmg systematically speierman nonsingle
+4  proceeds thacher oedipus impulses tlcs
+5  oettinger tn interactions irwin impulses
+6  tn computer animation equations coordinate
+7  processed oettinger irwin syslo tn
+8  activity system computer forwarding communication
+9  information system secure computer eft
+10  program processing zeros computers language
+11  language programming data systems machine
+12  system security spelling data programs
+13  expressions 4.12 compilers optimizations program
+14  merge 1963 polyphase algorithm shuttle
+15  flow analysis program peephole data
+16  system multiprogramming process 4.32 set
+17  threaded 4.12 expressions compilers generation
+18  paragraph oettinger processor-oriented tn computers
+19  computers zeros processors processing array
+20  algorithm vertically matrix tn 5.32
+21  complexities oestreicher computation mysterious irrelevant
+22  plotting r420 plot program surface
+23  networks information synchronization control generating
+24  simulation event ca611013 convergence 12:48
+25  perform oettinger syslo systematically model
+26  system protection security data access
+27  paging behavior model allocation algorithms
+28  routines activity broadcast computer tn
+29  generator a1 algorithm chartres numbers
+30  tests thacher oestreicher formatted tlcs
+31  illustrative oettinger display irwin tmg
+32  grapa thacher oedipus ancients irregularities
+33  eigenvalue-eigenvector th eigenvector-eigenvalue mathsort oestreicher
+34  rootfinder room polyhedral oettinger zero-time
+35  thacher oettinger symbiosis manipulating impulses
+36  grammars grammar affix lr syntax
+37  thacher oettinger twos-complement type-wise irwin
+38  oettinger typeless ty impulses irwin
+39  language programming abstractions array 1977
+40  oettinger typeless ty programmers language
+41  distinguishable octal textual procedures 9:58
+42  perforated oestreicher synthetic evaluating ancients
+43  method gamma fonts methods rejection
+44  predicates mathematics display surface loop
+45  access retrieval organization base inverted
+46  system document documents systems data
+47  retracing informal oestreicher se improving
+48  line-scan programmer-supplied 5.41 dual simpler
+49  retract oettinger informally impulses footing
+50  trees system storage consecutive 3.70
+51  memory zeros processing processor algorithm
+52  simulates oestreicher evenly impulses ancients
+53  bingham coefficient 189 algol-type th
+54  th oden programmer-defined sellers dartmouth
+55  watts coulomb functions 292 s22
+56  wattenburg coulomb regression functions oettinger
+57  thacher oestreicher 9:59 ancients profusion
+58  statistic oettinger registration analysis testing
+59  oettinger tn word-sense speierman analysis
+60  data-transfer thacher dashes oestreicher relates
+61  retracing informal oestreicher figures salesman
+62  tn computers processes zero-time logic
+63  computers illiac processing zeros array
+64  lisp-like oestreicher tmg maximum improving
